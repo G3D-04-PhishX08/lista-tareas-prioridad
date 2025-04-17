@@ -32,7 +32,7 @@ cd lista-tareas-prioridad
 
 2. Instala dependencias:
 pip install -r requirements.txt
-
+```
 
 ## 🚀 Cómo Usar
 - Ejecuta la aplicación:
