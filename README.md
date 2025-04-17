@@ -27,7 +27,7 @@ Salir - Cierra la aplicación (los datos se guardan automáticamente)
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/lista-tareas-prioridad.git
+git clone https://github.com/G3D-04-PhishX08/lista-tareas-prioridad.git
 cd lista-tareas-prioridad
 
 2. Instala dependencias:
